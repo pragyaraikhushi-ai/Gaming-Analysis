@@ -1,4 +1,6 @@
 # Gaming-Analysis
-It is a dashboard to analysis different aspect of gaming.
+<p>It is a dashboard to analysis different aspect of gaming.</p>
 <br>
-Author - Pragya Rai
+<p>Author - Pragya Rai</p>
+<br>
+<p>Let us have fun while doing the analysis</p>
